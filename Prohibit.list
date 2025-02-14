@@ -1,3 +1,45 @@
+# 内容：OpenAi Bard anthropic
+# 域名关键字匹配
+# DOMAIN-KEYWORD,openai
+# DOMAIN-KEYWORD,anthropic
+# DOMAIN-KEYWORD,Claude
+# 域名后缀匹配
+DOMAIN,copilot.microsoft.com
+DOMAIN-SUFFIX,bing.com
+
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,circumlunar.space
+DOMAIN-SUFFIX,vulpes.one
+DOMAIN-SUFFIX,mozz.us
+DOMAIN-SUFFIX,conman.org
+DOMAIN-SUFFIX,bortzmeyer.org
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,difyai.com
+DOMAIN-SUFFIX,genspark.ai
+
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,signalr.net
+
 # 内容：禁止连接
 
 # 域名关键字匹配
@@ -6,13 +48,13 @@
 # DOMAIN-KEYWORD,Claude
 
 # 域名匹配
-DOMAIN,dc.services.visualstudio.com
+# DOMAIN,dc.services.visualstudio.com
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,api.simpleallowcopy.com
-DOMAIN-SUFFIX,lzzncm.com
+# DOMAIN-SUFFIX,api.simpleallowcopy.com
+# DOMAIN-SUFFIX,lzzncm.com
 
 # 禁止访问特定的 IP 地址
-IP-ADDRESS,117.209.95.242
-IP-ADDRESS,117.216.27.39
-IP-ADDRESS,198.18.1.148
+# IP-ADDRESS,117.209.95.242
+# IP-ADDRESS,117.216.27.39
+# IP-ADDRESS,198.18.1.148
