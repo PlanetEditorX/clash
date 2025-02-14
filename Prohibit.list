@@ -5,7 +5,6 @@
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
-DOMAIN,dc.services.visualstudio.com
 DOMAIN-SUFFIX,bing.com
 
 DOMAIN-SUFFIX,chatgpt.com
@@ -41,8 +40,6 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
 
-DOMAIN-SUFFIX,api.simpleallowcopy.com
-DOMAIN-SUFFIX,lzzncm.com
 
 # 内容：禁止连接
 
