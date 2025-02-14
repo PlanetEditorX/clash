@@ -5,9 +5,11 @@
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
 
-# 域名后缀匹配
+# 域名匹配
 # DOMAIN,copilot.microsoft.com
-# DOMAIN-SUFFIX,bing.com
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,api.simpleallowcopy.com
 
 # 禁止访问特定的 IP 地址
 IP-ADDRESS,117.209.95.242
