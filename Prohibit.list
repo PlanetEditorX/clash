@@ -6,12 +6,12 @@
 # DOMAIN-KEYWORD,Claude
 
 # 域名匹配
-DOMAIN,dc.services.visualstudio.com,REJECT
+DOMAIN,dc.services.visualstudio.com
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,api.simpleallowcopy.com,REJECT
+DOMAIN-SUFFIX,api.simpleallowcopy.com
 
 # 禁止访问特定的 IP 地址
-IP-ADDRESS,117.209.95.242,REJECT
-IP-ADDRESS,117.216.27.39,REJECT
-IP-ADDRESS,198.18.1.148,REJECT
+IP-ADDRESS,117.209.95.242
+IP-ADDRESS,117.216.27.39
+IP-ADDRESS,198.18.1.148
