@@ -5,6 +5,7 @@
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
+DOMAIN,dc.services.visualstudio.com
 DOMAIN-SUFFIX,bing.com
 
 DOMAIN-SUFFIX,chatgpt.com
@@ -40,6 +41,9 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
 
+DOMAIN-SUFFIX,api.simpleallowcopy.com
+DOMAIN-SUFFIX,lzzncm.com
+
 # 内容：禁止连接
 
 # 域名关键字匹配
@@ -55,6 +59,6 @@ DOMAIN-SUFFIX,signalr.net
 # DOMAIN-SUFFIX,lzzncm.com
 
 # 禁止访问特定的 IP 地址
-# IP-ADDRESS,117.209.95.242
-# IP-ADDRESS,117.216.27.39
-# IP-ADDRESS,198.18.1.148
+IP-ADDRESS,117.209.95.242
+IP-ADDRESS,117.216.27.39
+IP-ADDRESS,198.18.1.148
